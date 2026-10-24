@@ -1,10 +1,9 @@
 # total-site-block-backup
 Total Site &amp; Block Theme Backup Suite for WordPres
 
-Version: 1.0 Stable (1.0.0)
-Developer: androidSuperUser
-Donate: Support development via PayPal
-License: GPL-2.0-or-later
+*Version: 1.0 Stable (1.0.0)
+*Developer: androidSuperUser
+*License: GPL-2.0-or-later
 
 Total Site & Block Theme Backup Suite is a WordPress backup tool for creating comprehensive ZIP backup files and restoring site content(Post, Page, Archive) , installed plugins and themes, and Full Site Editing (FSE) block-theme customizations.
 
